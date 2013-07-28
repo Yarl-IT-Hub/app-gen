@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app name ="Kandasamyum Galaxyum" exeName="KandasamyumGalaxyum" platform="Android 4.1" version="1.0" iconPath="img/icon.png" splashPath="img/splash.png">
+    <content id="1">
+        <title>Kandasamyum Galaxyum</title>
+        <para>
+            <heading link="content.id=1">1.Chapter 1</heading>
+        </para>
+
+        <content id="1.1">
+            <title>Chapter 1</title>
+            <para>
+                <heading>End of the world</heading>
+                <text>...........</text>
+                <image src="img/cat.png">Cat</image>
+                <text>...........</text>
+                <text link="content.id=2">Next</text>
+            </para>
+        </content>
+
+        <content id="1.2">
+            <title>Chapter 2</title>
+            <para>
+                <heading>After Apocalypse</heading>
+                <text>...........</text>
+                <image src="img/beginning.png">Beginning</image>
+                <text>...........</text>
+                <text link="content.id=3">Next</text>
+            </para>
+        </content>
+    </content>
+</app>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app name ="Thirukural" exeName="Thirukural" platform="Android 4.1" version="1.0" iconPath="img/icon.png" splashPath="img/splash.png">
+    <content id="1">
+        <title>Thirukural</title>
+        <para>
+            <heading link="content.id=1.1">1.அறத்துப்பால்</heading>
+        </para>
+
+        <content id="1.1">
+            <title>அறத்துப்பால்</title>
+            <para>
+                <heading link="content.id=1.1.1">1.பாயிரவியல்</heading>
+                <heading link="content.id=1.1.2">2.இல்லறவியல்</heading>
+                <heading link="content.id=1.1.3">3.துறவறவியல்</heading>
+            </para>
+
+            <content id="1.1.1">
+                <title>பாயிரவியல்</title>
+                <heading link="content.id=1.1.1.1">1. கடவுள் வாழ்த்து</heading>
+                <heading link="content.id=1.1.1.2">2. வான்சிறப்பு</heading>
+                <heading link="content.id=1.1.1.3">3. நீத்தார் பெருமை</heading>
+                <heading link="content.id=1.1.1.4">4. அறன் வலியுறுத்தல்</heading>
+
+                <content id="1.1.1.1">
+                    <title>கடவுள் வாழ்த்து</title>
+                    <para>
+                        <text>1. அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு.</text>
+                        <text>2. கற்றதனால் ஆய பயனென்கொல் வாலறிவன் நற்றாள் தொழாஅர் எனின்.</text>
+                        <text>3. மலர்மிசை ஏகினான் மாணடி சேர்ந்தார் நிலமிசை நீடுவாழ் வார்.</text>
+                        <text>4. வேண்டுதல்வேண் டாமை இலானடி சேர்ந்தார்க்கு யாண்டும் இடும்பை இல.</text>
+                        <text>5. இருள்சேர் இருவினையும் சேரா இறைவன் பொருள்சேர் புகழ்புரிந்தார் மாட்டு.</text>
+                        <text>6. பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க நெறிநின்றார் நீடுவாழ் வார்.</text>
+                        <text link="content.id=1.1.1.2">Next</text>
+                    </para>
+                </content>
+
+            </content>
+
+        </content>
+
+
+    </content>
+</app>
